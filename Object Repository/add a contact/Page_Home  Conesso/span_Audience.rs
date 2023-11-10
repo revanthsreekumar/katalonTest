@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Audience</name>
+   <tag></tag>
+   <elementGuidId>f231d32c-d59b-4989-b79c-0f3fbcaca0e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeLarge.MuiButton-textSizeLarge.MuiButton-fullWidth.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeLarge.MuiButton-textSizeLarge.MuiButton-fullWidth.sc-dIfARi.iovhhA.default-button.default-button.false.css-1bt6rm-MuiButtonBase-root-MuiButton-root > div.MuiListItemText-root.css-tlelie-MuiListItemText-root > span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/nav/nav/div[2]/button/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b46b712f-ac4f-465b-940f-1717cbe0014e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root</value>
+      <webElementGuid>e48c34b3-e937-4565-a881-916b5bbea16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Audience</value>
+      <webElementGuid>8674ebb8-2237-4638-bac4-e34bce26b4fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fEXmlR jaqwBE&quot;]/nav[@class=&quot;sc-fnGiBr iVuLoc&quot;]/nav[@class=&quot;MuiList-root MuiList-padding nav-list css-h4y409-MuiList-root&quot;]/div[@class=&quot;sc-hHTYSt lkBhZo&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeLarge MuiButton-textSizeLarge MuiButton-fullWidth MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeLarge MuiButton-textSizeLarge MuiButton-fullWidth sc-dIfARi iovhhA default-button default-button false css-1bt6rm-MuiButtonBase-root-MuiButton-root&quot;]/div[@class=&quot;MuiListItemText-root css-tlelie-MuiListItemText-root&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root&quot;]</value>
+      <webElementGuid>3d3c44bc-1f4a-4018-89b2-ab517bf493ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/nav/nav/div[2]/button/div/span</value>
+      <webElementGuid>c55fd462-5550-4133-9b6d-2585bedf2431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/span</value>
+      <webElementGuid>48d5fc81-b2c0-4e13-a3eb-d0b9ddf2bfe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Audience' or . = 'Audience')]</value>
+      <webElementGuid>6a5e8315-3ec5-4786-a5c4-397fb39f1446</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

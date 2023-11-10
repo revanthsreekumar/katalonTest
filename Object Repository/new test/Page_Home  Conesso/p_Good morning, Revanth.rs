@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Good morning, Revanth</name>
+   <tag></tag>
+   <elementGuidId>337347ab-323c-415e-8497-054b6bcbaef6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/section/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.sc-ftTHYK.clkWjN.HeadLineL.css-ahj2mt-MuiTypography-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4e805e1c-1f1a-4ec7-aae6-b913abaea3d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 sc-ftTHYK clkWjN HeadLineL css-ahj2mt-MuiTypography-root</value>
+      <webElementGuid>3373648a-6285-4a6d-a129-9524451663c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>typography</value>
+      <webElementGuid>431e5001-6e47-48ab-9009-e97cca145c27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Good morning, Revanth</value>
+      <webElementGuid>2f735c17-9472-4dc6-8128-4e3020e364df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fLcnxK gdSfro&quot;]/section[@class=&quot;sc-lllmON esksZL&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 sc-ftTHYK clkWjN HeadLineL css-ahj2mt-MuiTypography-root&quot;]</value>
+      <webElementGuid>034b5c14-bc18-4180-a1ba-20612871a8cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/section/p</value>
+      <webElementGuid>1b79c35a-d9b4-4df4-8d3d-b71c608ef354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/p</value>
+      <webElementGuid>838d261b-687f-4529-86e9-bd565e4fa796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Good morning, Revanth' or . = 'Good morning, Revanth')]</value>
+      <webElementGuid>24368373-44ee-4669-8f5e-8d783ee5a13d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
